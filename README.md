@@ -1,7 +1,9 @@
 # Compiled Hotel Management App
 
-Complete Compilation on "Successful.py"
+Python based Hotel management GUI for re-use.
+Built on python Tkinter
+you can find the Complete Compilation on "Successful.py"
 
 ## Database
 
-No database connected to it. For reuse
+No database connection. For reuse. feel free to contact me if you need.
